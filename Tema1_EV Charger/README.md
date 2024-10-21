@@ -39,5 +39,10 @@ Dacă oricând de la pornirea încărcării până la finalizarea acesteia este 
 ![Screenshot 2024-10-20 173053](https://github.com/user-attachments/assets/d47b12ed-f245-4149-81c6-ed802e61a339)
 
 # 4)Poze montaj fizic:
-# 5)Link video:
+![Montaj_fizic1](https://github.com/user-attachments/assets/61013026-96f7-4ef9-9a7f-01c2601585f9)
+![Montaj_fizic2](https://github.com/user-attachments/assets/ad737055-e14d-419b-90c5-dd8e44323375)
+![Montaj_fizic3](https://github.com/user-attachments/assets/b1915015-1762-4a53-886d-e59cc22b882a)
 
+
+# 5)Link video:
+https://youtube.com/watch/-Os1j6454DM?feature=share
