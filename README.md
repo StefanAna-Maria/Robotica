@@ -1,5 +1,6 @@
 # Introducere în Robotică - Proiecte și Teme
 Acest repository contine temele si proiectul realizate in cadrul cursului Introducere în Robotica.
+
 [Facultatea de Matematica si Informatica, Universitatea din Bucuresti]
 
 # Conținut:
