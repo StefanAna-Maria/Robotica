@@ -48,8 +48,17 @@ In realizarea montajului am utilizat urmatoarele componente:
 - 14X fire pentru legaturi
 - Placuta de Arduino UNO din kit-ul primit 
 # 2)Cerinte:
-## 2.1 Detalii tehnice
+<details> 
+<summary>2.1 Detalii tehnice</summary>
 
+Led-ul RGB reprezintă disponibilitatea stației. Dacă stația este liberă led-ul va fi verde, iar dacă stația este ocupată se va face roșu.
+
+Led-urile simple reprezintă gradul de încărcare al bateriei, pe care îl vom simula printr-un loader progresiv (L1 = 25%, L2 = 50%, L3 = 75%, L4 = 100%). Loader-ul se încărca prin aprinderea succesivă a led-urilor, la un interval fix de 3s. LED-ul care semnifică procentul curent de încărcare va avea starea de clipire, LED-urile din urma lui fiind aprinse continuu, iar celelalte stinse.
+
+Apăsarea scurtă a butonului de start va porni încărcarea. Apăsarea acestui buton în timpul încărcării nu va face nimic.
+
+Apăsarea lungă a butonului de stop va opri încărcarea forțat și va reseta stația la starea liberă. Apăsarea acestui buton cat timp stația este liberă nu va face nimic.
+</details>
 <details>
 <summary> 2.2 Flow-ul procesului: </summary>
 1) Stația începe în starea liberă, cu LED-ul RGB aprins verde și toate LED-urile de încărcare stinse.
