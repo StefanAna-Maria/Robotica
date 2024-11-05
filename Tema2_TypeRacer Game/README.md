@@ -81,5 +81,5 @@ In realizarea montajului am utilizat urmatoarele componente:
 ![tema2_poza1](https://github.com/user-attachments/assets/dd489a30-430f-4882-bd1c-c70439044369)
 
 ## 5)Link video:
-
+https://youtu.be/_DCFmS3CzRc
 
