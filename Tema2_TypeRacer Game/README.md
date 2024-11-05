@@ -77,6 +77,9 @@ In realizarea montajului am utilizat urmatoarele componente:
 
 ## 4)Poze montaj fizic:
 
+![tema2_Poza2](https://github.com/user-attachments/assets/b3b6f847-c503-405c-8adb-7d13378f08ed)
+![tema2_poza1](https://github.com/user-attachments/assets/dd489a30-430f-4882-bd1c-c70439044369)
+
 ## 5)Link video:
 
 
