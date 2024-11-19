@@ -19,7 +19,32 @@ Fiecare jucător dispune de un set de 3 butoane, 3 LED-uri simple si un LED RGB,
 - **1x Buzzer**
 
 ## Flow-ul Jocului
-(TBD)
+
+<details>
+<summery> 1. Inițializare </summery>
+
+- La inceput pe LCD este afisat un mesaj de bun venit.
+- Jocul se porneste prin apasarea butonului de start de pe placa "Master".
+- Dupa pornire vor aparea atat pe LCD cat si in monitorul serial mesaje pentru introducerea numelor jucatorilor.
+- Dupa inregistrarea ambelor nume se vor afisa pe LCD numele celor care se vor duela, apoi vor incepe rundele.
+</details>
+
+<details>
+<summary> 2. Desfășurarea Rundelor </summary>
+
+- Fiecare jucator are trei butoane, fiecare asociat unui LED de o culoare distincta, și un LED RGB.
+- Rundele dureaza cate o secunda si alterneaza intre cei 2 jucatori.
+- In fiecare runda, jucatorul activ va urmari LED-ul RGB aprins intr-o culoare corespunzatoare unuia dintre butoanele sale. - Jucatorul trebuie sa apese cat mai rapid butonul corect pentru a acumula puncte.
+- Cu cat reactioneaza mai repede, cu atat scorul este mai mare.
+- Pe parcursul jocului, ecranul LCD va afisa alternativ numele jucatorilor atunci cand sunt activi.
+</details>
+
+<details>
+<summary> 3. Finalizarea Jocului </summary>
+
+- Servomotorul se roteste in timpul jocului pentru a indica progresul. O rotatie completa marcheaza sfarsitul jocului.
+- La final, LCD-ul afișează scorul final al fiecarui jucator pentru cateva secunde, iar apoi castigatorul si revine la mesajul de bun venit.
+</details>
 
 ## Detalii Tehnice
 <details>
