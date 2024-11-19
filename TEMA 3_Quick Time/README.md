@@ -1,6 +1,5 @@
 # TEMA 3 - Quick Time Game
--> Coechipier: Hera Andreea-Diana :)
-(https://github.com/DianaHera)
+-> Coechipier: [Hera Andreea-Diana](https://github.com/DianaHera) :)
 
 ## Descriere
 Aceasta tema consta in dezvoltarea unui joc competitiv de reflex pentru doi jucatori, in care participantii isi testeaza viteza reflexelor in incercarea de a obtine un scor cat mai mare.
