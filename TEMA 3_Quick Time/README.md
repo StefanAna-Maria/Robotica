@@ -15,8 +15,11 @@ Fiecare jucător dispune de un set de 3 butoane, 3 LED-uri simple si un LED RGB,
 - **2x breadboard**
 - **Fire de legătură**
 - **2x Arduino Uno**
-- **1X Potentiometru**
-- **1x Buzzer**
+- **1X potentiometru**
+- **1x buzzer**
+- **8x rezistoare de 1 kOhm
+- **13x rezistoare de 330 Ohm
+- **1x rezistoare de 100 Ohm
 
 ## Flow-ul Jocului
 
@@ -94,7 +97,7 @@ Noi am ales sa utilizam pentru aceasta tema 7 butoane:
 <summary> 6. Buzzer </summary>
 
 - Este conectat si controlat de placa "Slave".
-- Scopul acestuia este sa 
+- Scopul acestuia este sa semnaleze schimbarea rundelor prin scoaterea unui sunet de frecv = 350.  
 </details>
 
 ## Elemente Personalizabile
@@ -116,8 +119,15 @@ Noi am ales sa utilizam pentru aceasta tema 7 butoane:
 </details>
 
 ## Schema electrica: 
-(TBD)
+![Screenshot 2024-11-19 214257](https://github.com/user-attachments/assets/e8b7754d-07eb-4294-8df7-5b37eb5366ea)
+
 ## Imagini montaj:
-(TBD)
+![poza 1_tema 3](https://github.com/user-attachments/assets/fb60e432-74d0-4a02-9210-0bbadd653244)
+![poza 2_tema 3](https://github.com/user-attachments/assets/c5bddb5a-5846-4b90-9f49-1c8a2970cdf0)
+![poza 3_tema 3](https://github.com/user-attachments/assets/fe70ec96-fd5f-46d9-9e56-b7ec6715f2ca)
+![poza 4_tema 3](https://github.com/user-attachments/assets/c95d1b33-e902-4b77-8d81-c7e920515c79)
+![poza 5_tema 3](https://github.com/user-attachments/assets/925a67ce-9e26-4fe7-a58d-5c4a2ce0b484)
+![poza 6_tema 3](https://github.com/user-attachments/assets/5741c122-79e8-456a-8e10-10a1682747fb)
+
 ## Link Video:
-(TBD)
+[Link Video - tema 3](https://youtu.be/vhr4K7lW5-Y)
